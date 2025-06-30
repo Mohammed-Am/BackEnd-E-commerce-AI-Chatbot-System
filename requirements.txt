@@ -1,0 +1,8 @@
+Flask
+pymongo
+Flask-Caching
+flasgger
+Flask-Cors
+python-dotenv
+google-generativeai
+gunicorn
