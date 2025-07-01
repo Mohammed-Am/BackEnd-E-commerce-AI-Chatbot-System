@@ -1,0 +1,402 @@
+[
+    {
+        "name": "Rad Power Sub Sport CF 1",
+        "type": "Hybrid",
+        "price": 833.41,
+        "description": "A versatile hybrid bike that's perfect for city commuting, fitness rides, and weekend explorations on bike paths. Comes in a stylish Black finish.",
+        "image_url": "https://placehold.co/600x400/CCCCCC/000000?text=Rad+Power",
+        "amazon_link": "https://www.amazon.com/s?k=Rad+Power+Sub+Sport+CF+1"
+    },
+    {
+        "name": "Rad Power Quick CF 2",
+        "type": "Hybrid",
+        "price": 712.84,
+        "description": "A versatile hybrid bike that's perfect for city commuting, fitness rides, and weekend explorations on bike paths. Comes in a stylish Black finish.",
+        "image_url": "https://placehold.co/600x400/CCCCCC/000000?text=Rad+Power",
+        "amazon_link": "https://www.amazon.com/s?k=Rad+Power+Quick+CF+2"
+    },
+    {
+        "name": "Trek Spark LTD 3",
+        "type": "Mountain",
+        "price": 2807.06,
+        "description": "A durable mountain bike designed for rugged trails. Features a lightweight trek frame, advanced suspension, and a modern geometry for confident handling. Comes in a stylish Red finish.",
+        "image_url": "https://placehold.co/600x400/CCCCCC/000000?text=Trek",
+        "amazon_link": "https://www.amazon.com/s?k=Trek+Spark+LTD+3"
+    },
+    {
+        "name": "Santa Cruz Spark CF 4",
+        "type": "Mountain",
+        "price": 2415.62,
+        "description": "A durable mountain bike designed for rugged trails. Features a lightweight santa cruz frame, advanced suspension, and a modern geometry for confident handling. Comes in a stylish Blue finish.",
+        "image_url": "https://placehold.co/600x400/CCCCCC/000000?text=Santa+Cruz",
+        "amazon_link": "https://www.amazon.com/s?k=Santa+Cruz+Spark+CF+4"
+    },
+    {
+        "name": "Santa Cruz Escape LTD 5",
+        "type": "Hybrid",
+        "price": 1182.84,
+        "description": "A versatile hybrid bike that's perfect for city commuting, fitness rides, and weekend explorations on bike paths. Comes in a stylish Blue finish.",
+        "image_url": "https://placehold.co/600x400/CCCCCC/000000?text=Santa+Cruz",
+        "amazon_link": "https://www.amazon.com/s?k=Santa+Cruz+Escape+LTD+5"
+    },
+    {
+        "name": "Giant Marlin Comp 6",
+        "type": "Mountain",
+        "price": 3555.14,
+        "description": "A durable mountain bike designed for rugged trails. Features a lightweight giant frame, advanced suspension, and a modern geometry for confident handling. Comes in a stylish Black finish.",
+        "image_url": "https://placehold.co/600x400/CCCCCC/000000?text=Giant",
+        "amazon_link": "https://www.amazon.com/s?k=Giant+Marlin+Comp+6"
+    },
+    {
+        "name": "Canyon Habit AL 7",
+        "type": "Mountain",
+        "price": 1305.49,
+        "description": "A durable mountain bike designed for rugged trails. Features a lightweight canyon frame, advanced suspension, and a modern geometry for confident handling. Comes in a stylish Red finish.",
+        "image_url": "https://placehold.co/600x400/CCCCCC/000000?text=Canyon",
+        "amazon_link": "https://www.amazon.com/s?k=Canyon+Habit+AL+7"
+    },
+    {
+        "name": "Trek Turbo Levo SL 8",
+        "type": "Electric",
+        "price": 5689.8,
+        "description": "A powerful electric bike that gives you an extra boost on climbs and long rides. Features a long-lasting battery and an intuitive pedal-assist system. Comes in a stylish Orange finish.",
+        "image_url": "https://placehold.co/600x400/CCCCCC/000000?text=Trek",
+        "amazon_link": "https://www.amazon.com/s?k=Trek+Turbo+Levo+SL+8"
+    },
+    {
+        "name": "Trek Stumpjumper CF 9",
+        "type": "Mountain",
+        "price": 4498.35,
+        "description": "A durable mountain bike designed for rugged trails. Features a lightweight trek frame, advanced suspension, and a modern geometry for confident handling. Comes in a stylish Red finish.",
+        "image_url": "https://placehold.co/600x400/CCCCCC/000000?text=Trek",
+        "amazon_link": "https://www.amazon.com/s?k=Trek+Stumpjumper+CF+9"
+    },
+    {
+        "name": "Specialized Turbo Levo SL 10",
+        "type": "Electric",
+        "price": 3292.37,
+        "description": "A powerful electric bike that gives you an extra boost on climbs and long rides. Features a long-lasting battery and an intuitive pedal-assist system. Comes in a stylish White finish.",
+        "image_url": "https://placehold.co/600x400/CCCCCC/000000?text=Specialized",
+        "amazon_link": "https://www.amazon.com/s?k=Specialized+Turbo+Levo+SL+10"
+    },
+    {
+        "name": "Trek Spark SL 11",
+        "type": "Mountain",
+        "price": 2870.56,
+        "description": "A durable mountain bike designed for rugged trails. Features a lightweight trek frame, advanced suspension, and a modern geometry for confident handling. Comes in a stylish Silver finish.",
+        "image_url": "https://placehold.co/600x400/CCCCCC/000000?text=Trek",
+        "amazon_link": "https://www.amazon.com/s?k=Trek+Spark+SL+11"
+    },
+    {
+        "name": "Scott Marlin Comp 12",
+        "type": "Mountain",
+        "price": 3365.05,
+        "description": "A durable mountain bike designed for rugged trails. Features a lightweight scott frame, advanced suspension, and a modern geometry for confident handling. Comes in a stylish Orange finish.",
+        "image_url": "https://placehold.co/600x400/CCCCCC/000000?text=Scott",
+        "amazon_link": "https://www.amazon.com/s?k=Scott+Marlin+Comp+12"
+    },
+    {
+        "name": "Rad Power Quick Comp 13",
+        "type": "Hybrid",
+        "price": 629.79,
+        "description": "A versatile hybrid bike that's perfect for city commuting, fitness rides, and weekend explorations on bike paths. Comes in a stylish Black finish.",
+        "image_url": "https://placehold.co/600x400/CCCCCC/000000?text=Rad+Power",
+        "amazon_link": "https://www.amazon.com/s?k=Rad+Power+Quick+Comp+13"
+    },
+    {
+        "name": "Canyon Spark CF 14",
+        "type": "Mountain",
+        "price": 1316.97,
+        "description": "A durable mountain bike designed for rugged trails. Features a lightweight canyon frame, advanced suspension, and a modern geometry for confident handling. Comes in a stylish Blue finish.",
+        "image_url": "https://placehold.co/600x400/CCCCCC/000000?text=Canyon",
+        "amazon_link": "https://www.amazon.com/s?k=Canyon+Spark+CF+14"
+    },
+    {
+        "name": "Specialized Spark AL 15",
+        "type": "Mountain",
+        "price": 4426.69,
+        "description": "A durable mountain bike designed for rugged trails. Features a lightweight specialized frame, advanced suspension, and a modern geometry for confident handling. Comes in a stylish Blue finish.",
+        "image_url": "https://placehold.co/600x400/CCCCCC/000000?text=Specialized",
+        "amazon_link": "https://www.amazon.com/s?k=Specialized+Spark+AL+15"
+    },
+    {
+        "name": "Rad Power Topstone Neo CF 16",
+        "type": "Electric",
+        "price": 1793.76,
+        "description": "A powerful electric bike that gives you an extra boost on climbs and long rides. Features a long-lasting battery and an intuitive pedal-assist system. Comes in a stylish Blue finish.",
+        "image_url": "https://placehold.co/600x400/CCCCCC/000000?text=Rad+Power",
+        "amazon_link": "https://www.amazon.com/s?k=Rad+Power+Topstone+Neo+CF+16"
+    },
+    {
+        "name": "Rad Power Tallboy AL 17",
+        "type": "Mountain",
+        "price": 3736.49,
+        "description": "A durable mountain bike designed for rugged trails. Features a lightweight rad power frame, advanced suspension, and a modern geometry for confident handling. Comes in a stylish Black finish.",
+        "image_url": "https://placehold.co/600x400/CCCCCC/000000?text=Rad+Power",
+        "amazon_link": "https://www.amazon.com/s?k=Rad+Power+Tallboy+AL+17"
+    },
+    {
+        "name": "Specialized Explore E+ AL 18",
+        "type": "Electric",
+        "price": 5581.73,
+        "description": "A powerful electric bike that gives you an extra boost on climbs and long rides. Features a long-lasting battery and an intuitive pedal-assist system. Comes in a stylish Silver finish.",
+        "image_url": "https://placehold.co/600x400/CCCCCC/000000?text=Specialized",
+        "amazon_link": "https://www.amazon.com/s?k=Specialized+Explore+E++AL+18"
+    },
+    {
+        "name": "Giant FX SL 19",
+        "type": "Hybrid",
+        "price": 1220.75,
+        "description": "A versatile hybrid bike that's perfect for city commuting, fitness rides, and weekend explorations on bike paths. Comes in a stylish Red finish.",
+        "image_url": "https://placehold.co/600x400/CCCCCC/000000?text=Giant",
+        "amazon_link": "https://www.amazon.com/s?k=Giant+FX+SL+19"
+    },
+    {
+        "name": "Cannondale Allez Comp 20",
+        "type": "Road",
+        "price": 4355.99,
+        "description": "An aerodynamic road bike built for speed and efficiency on the pavement. Perfect for racing, group rides, or long solo adventures. Comes in a stylish Blue finish.",
+        "image_url": "https://placehold.co/600x400/CCCCCC/000000?text=Cannondale",
+        "amazon_link": "https://www.amazon.com/s?k=Cannondale+Allez+Comp+20"
+    },
+    {
+        "name": "Cannondale Domane SL 21",
+        "type": "Road",
+        "price": 4916.2,
+        "description": "An aerodynamic road bike built for speed and efficiency on the pavement. Perfect for racing, group rides, or long solo adventures. Comes in a stylish Orange finish.",
+        "image_url": "https://placehold.co/600x400/CCCCCC/000000?text=Cannondale",
+        "amazon_link": "https://www.amazon.com/s?k=Cannondale+Domane+SL+21"
+    },
+    {
+        "name": "Cannondale Turbo Levo EVO 22",
+        "type": "Electric",
+        "price": 2046.46,
+        "description": "A powerful electric bike that gives you an extra boost on climbs and long rides. Features a long-lasting battery and an intuitive pedal-assist system. Comes in a stylish Blue finish.",
+        "image_url": "https://placehold.co/600x400/CCCCCC/000000?text=Cannondale",
+        "amazon_link": "https://www.amazon.com/s?k=Cannondale+Turbo+Levo+EVO+22"
+    },
+    {
+        "name": "Specialized Addict Comp 23",
+        "type": "Road",
+        "price": 4248.84,
+        "description": "An aerodynamic road bike built for speed and efficiency on the pavement. Perfect for racing, group rides, or long solo adventures. Comes in a stylish Green finish.",
+        "image_url": "https://placehold.co/600x400/CCCCCC/000000?text=Specialized",
+        "amazon_link": "https://www.amazon.com/s?k=Specialized+Addict+Comp+23"
+    },
+    {
+        "name": "Scott Topstone Neo LTD 24",
+        "type": "Electric",
+        "price": 7838.16,
+        "description": "A powerful electric bike that gives you an extra boost on climbs and long rides. Features a long-lasting battery and an intuitive pedal-assist system. Comes in a stylish Green finish.",
+        "image_url": "https://placehold.co/600x400/CCCCCC/000000?text=Scott",
+        "amazon_link": "https://www.amazon.com/s?k=Scott+Topstone+Neo+LTD+24"
+    },
+    {
+        "name": "Scott Sub Sport Comp 25",
+        "type": "Hybrid",
+        "price": 940.92,
+        "description": "A versatile hybrid bike that's perfect for city commuting, fitness rides, and weekend explorations on bike paths. Comes in a stylish Silver finish.",
+        "image_url": "https://placehold.co/600x400/CCCCCC/000000?text=Scott",
+        "amazon_link": "https://www.amazon.com/s?k=Scott+Sub+Sport+Comp+25"
+    },
+    {
+        "name": "Specialized Habit CF 26",
+        "type": "Mountain",
+        "price": 3722.6,
+        "description": "A durable mountain bike designed for rugged trails. Features a lightweight specialized frame, advanced suspension, and a modern geometry for confident handling. Comes in a stylish Red finish.",
+        "image_url": "https://placehold.co/600x400/CCCCCC/000000?text=Specialized",
+        "amazon_link": "https://www.amazon.com/s?k=Specialized+Habit+CF+26"
+    },
+    {
+        "name": "Santa Cruz Domane CF 27",
+        "type": "Road",
+        "price": 2135.71,
+        "description": "An aerodynamic road bike built for speed and efficiency on the pavement. Perfect for racing, group rides, or long solo adventures. Comes in a stylish Red finish.",
+        "image_url": "https://placehold.co/600x400/CCCCCC/000000?text=Santa+Cruz",
+        "amazon_link": "https://www.amazon.com/s?k=Santa+Cruz+Domane+CF+27"
+    },
+    {
+        "name": "Trek Turbo Levo SL 28",
+        "type": "Electric",
+        "price": 6454.25,
+        "description": "A powerful electric bike that gives you an extra boost on climbs and long rides. Features a long-lasting battery and an intuitive pedal-assist system. Comes in a stylish Silver finish.",
+        "image_url": "https://placehold.co/600x400/CCCCCC/000000?text=Trek",
+        "amazon_link": "https://www.amazon.com/s?k=Trek+Turbo+Levo+SL+28"
+    },
+    {
+        "name": "Rad Power Domane Expert 29",
+        "type": "Road",
+        "price": 3487.64,
+        "description": "An aerodynamic road bike built for speed and efficiency on the pavement. Perfect for racing, group rides, or long solo adventures. Comes in a stylish Orange finish.",
+        "image_url": "https://placehold.co/600x400/CCCCCC/000000?text=Rad+Power",
+        "amazon_link": "https://www.amazon.com/s?k=Rad+Power+Domane+Expert+29"
+    },
+    {
+        "name": "Scott Aeroad EVO 30",
+        "type": "Road",
+        "price": 1853.4,
+        "description": "An aerodynamic road bike built for speed and efficiency on the pavement. Perfect for racing, group rides, or long solo adventures. Comes in a stylish Blue finish.",
+        "image_url": "https://placehold.co/600x400/CCCCCC/000000?text=Scott",
+        "amazon_link": "https://www.amazon.com/s?k=Scott+Aeroad+EVO+30"
+    },
+    {
+        "name": "Trek Sub Sport Expert 31",
+        "type": "Hybrid",
+        "price": 1052.6,
+        "description": "A versatile hybrid bike that's perfect for city commuting, fitness rides, and weekend explorations on bike paths. Comes in a stylish Blue finish.",
+        "image_url": "https://placehold.co/600x400/CCCCCC/000000?text=Trek",
+        "amazon_link": "https://www.amazon.com/s?k=Trek+Sub+Sport+Expert+31"
+    },
+    {
+        "name": "Santa Cruz Heckler Pro 32",
+        "type": "Electric",
+        "price": 2184.89,
+        "description": "A powerful electric bike that gives you an extra boost on climbs and long rides. Features a long-lasting battery and an intuitive pedal-assist system. Comes in a stylish Red finish.",
+        "image_url": "https://placehold.co/600x400/CCCCCC/000000?text=Santa+Cruz",
+        "amazon_link": "https://www.amazon.com/s?k=Santa+Cruz+Heckler+Pro+32"
+    },
+    {
+        "name": "Specialized Addict Pro 33",
+        "type": "Road",
+        "price": 1621.34,
+        "description": "An aerodynamic road bike built for speed and efficiency on the pavement. Perfect for racing, group rides, or long solo adventures. Comes in a stylish Orange finish.",
+        "image_url": "https://placehold.co/600x400/CCCCCC/000000?text=Specialized",
+        "amazon_link": "https://www.amazon.com/s?k=Specialized+Addict+Pro+33"
+    },
+    {
+        "name": "Rad Power Sub Sport CF 34",
+        "type": "Hybrid",
+        "price": 1110.34,
+        "description": "A versatile hybrid bike that's perfect for city commuting, fitness rides, and weekend explorations on bike paths. Comes in a stylish Orange finish.",
+        "image_url": "https://placehold.co/600x400/CCCCCC/000000?text=Rad+Power",
+        "amazon_link": "https://www.amazon.com/s?k=Rad+Power+Sub+Sport+CF+34"
+    },
+    {
+        "name": "Giant Quick SL 35",
+        "type": "Hybrid",
+        "price": 883.5,
+        "description": "A versatile hybrid bike that's perfect for city commuting, fitness rides, and weekend explorations on bike paths. Comes in a stylish Black finish.",
+        "image_url": "https://placehold.co/600x400/CCCCCC/000000?text=Giant",
+        "amazon_link": "https://www.amazon.com/s?k=Giant+Quick+SL+35"
+    },
+    {
+        "name": "Giant Pathlite AL 36",
+        "type": "Hybrid",
+        "price": 1186.43,
+        "description": "A versatile hybrid bike that's perfect for city commuting, fitness rides, and weekend explorations on bike paths. Comes in a stylish Orange finish.",
+        "image_url": "https://placehold.co/600x400/CCCCCC/000000?text=Giant",
+        "amazon_link": "https://www.amazon.com/s?k=Giant+Pathlite+AL+36"
+    },
+    {
+        "name": "Santa Cruz FX Comp 37",
+        "type": "Hybrid",
+        "price": 1372.86,
+        "description": "A versatile hybrid bike that's perfect for city commuting, fitness rides, and weekend explorations on bike paths. Comes in a stylish Orange finish.",
+        "image_url": "https://placehold.co/600x400/CCCCCC/000000?text=Santa+Cruz",
+        "amazon_link": "https://www.amazon.com/s?k=Santa+Cruz+FX+Comp+37"
+    },
+    {
+        "name": "Specialized Spark Comp 38",
+        "type": "Mountain",
+        "price": 2213.97,
+        "description": "A durable mountain bike designed for rugged trails. Features a lightweight specialized frame, advanced suspension, and a modern geometry for confident handling. Comes in a stylish Black finish.",
+        "image_url": "https://placehold.co/600x400/CCCCCC/000000?text=Specialized",
+        "amazon_link": "https://www.amazon.com/s?k=Specialized+Spark+Comp+38"
+    },
+    {
+        "name": "Cannondale Tallboy Expert 39",
+        "type": "Mountain",
+        "price": 3017.07,
+        "description": "A durable mountain bike designed for rugged trails. Features a lightweight cannondale frame, advanced suspension, and a modern geometry for confident handling. Comes in a stylish Orange finish.",
+        "image_url": "https://placehold.co/600x400/CCCCCC/000000?text=Cannondale",
+        "amazon_link": "https://www.amazon.com/s?k=Cannondale+Tallboy+Expert+39"
+    },
+    {
+        "name": "Santa Cruz Tallboy Comp 40",
+        "type": "Mountain",
+        "price": 2758.24,
+        "description": "A durable mountain bike designed for rugged trails. Features a lightweight santa cruz frame, advanced suspension, and a modern geometry for confident handling. Comes in a stylish Silver finish.",
+        "image_url": "https://placehold.co/600x400/CCCCCC/000000?text=Santa+Cruz",
+        "amazon_link": "https://www.amazon.com/s?k=Santa+Cruz+Tallboy+Comp+40"
+    },
+    {
+        "name": "Specialized Aeroad Pro 41",
+        "type": "Road",
+        "price": 4540.52,
+        "description": "An aerodynamic road bike built for speed and efficiency on the pavement. Perfect for racing, group rides, or long solo adventures. Comes in a stylish Black finish.",
+        "image_url": "https://placehold.co/600x400/CCCCCC/000000?text=Specialized",
+        "amazon_link": "https://www.amazon.com/s?k=Specialized+Aeroad+Pro+41"
+    },
+    {
+        "name": "Cannondale Stumpjumper Pro 42",
+        "type": "Mountain",
+        "price": 4583.15,
+        "description": "A durable mountain bike designed for rugged trails. Features a lightweight cannondale frame, advanced suspension, and a modern geometry for confident handling. Comes in a stylish Blue finish.",
+        "image_url": "https://placehold.co/600x400/CCCCCC/000000?text=Cannondale",
+        "amazon_link": "https://www.amazon.com/s?k=Cannondale+Stumpjumper+Pro+42"
+    },
+    {
+        "name": "Santa Cruz Stumpjumper AL 43",
+        "type": "Mountain",
+        "price": 2707.9,
+        "description": "A durable mountain bike designed for rugged trails. Features a lightweight santa cruz frame, advanced suspension, and a modern geometry for confident handling. Comes in a stylish Silver finish.",
+        "image_url": "https://placehold.co/600x400/CCCCCC/000000?text=Santa+Cruz",
+        "amazon_link": "https://www.amazon.com/s?k=Santa+Cruz+Stumpjumper+AL+43"
+    },
+    {
+        "name": "Santa Cruz Habit CF 44",
+        "type": "Mountain",
+        "price": 4980.0,
+        "description": "A durable mountain bike designed for rugged trails. Features a lightweight santa cruz frame, advanced suspension, and a modern geometry for confident handling. Comes in a stylish Blue finish.",
+        "image_url": "https://placehold.co/600x400/CCCCCC/000000?text=Santa+Cruz",
+        "amazon_link": "https://www.amazon.com/s?k=Santa+Cruz+Habit+CF+44"
+    },
+    {
+        "name": "Santa Cruz Heckler CF 45",
+        "type": "Electric",
+        "price": 4906.47,
+        "description": "A powerful electric bike that gives you an extra boost on climbs and long rides. Features a long-lasting battery and an intuitive pedal-assist system. Comes in a stylish Green finish.",
+        "image_url": "https://placehold.co/600x400/CCCCCC/000000?text=Santa+Cruz",
+        "amazon_link": "https://www.amazon.com/s?k=Santa+Cruz+Heckler+CF+45"
+    },
+    {
+        "name": "Rad Power Stumpjumper CF 46",
+        "type": "Mountain",
+        "price": 2601.13,
+        "description": "A durable mountain bike designed for rugged trails. Features a lightweight rad power frame, advanced suspension, and a modern geometry for confident handling. Comes in a stylish Black finish.",
+        "image_url": "https://placehold.co/600x400/CCCCCC/000000?text=Rad+Power",
+        "amazon_link": "https://www.amazon.com/s?k=Rad+Power+Stumpjumper+CF+46"
+    },
+    {
+        "name": "Canyon Tallboy EVO 47",
+        "type": "Mountain",
+        "price": 1609.61,
+        "description": "A durable mountain bike designed for rugged trails. Features a lightweight canyon frame, advanced suspension, and a modern geometry for confident handling. Comes in a stylish Green finish.",
+        "image_url": "https://placehold.co/600x400/CCCCCC/000000?text=Canyon",
+        "amazon_link": "https://www.amazon.com/s?k=Canyon+Tallboy+EVO+47"
+    },
+    {
+        "name": "Rad Power Turbo Levo LTD 48",
+        "type": "Electric",
+        "price": 2650.61,
+        "description": "A powerful electric bike that gives you an extra boost on climbs and long rides. Features a long-lasting battery and an intuitive pedal-assist system. Comes in a stylish Black finish.",
+        "image_url": "https://placehold.co/600x400/CCCCCC/000000?text=Rad+Power",
+        "amazon_link": "https://www.amazon.com/s?k=Rad+Power+Turbo+Levo+LTD+48"
+    },
+    {
+        "name": "Trek Domane LTD 49",
+        "type": "Road",
+        "price": 1469.26,
+        "description": "An aerodynamic road bike built for speed and efficiency on the pavement. Perfect for racing, group rides, or long solo adventures. Comes in a stylish Red finish.",
+        "image_url": "https://placehold.co/600x400/CCCCCC/000000?text=Trek",
+        "amazon_link": "https://www.amazon.com/s?k=Trek+Domane+LTD+49"
+    },
+    {
+        "name": "Giant Sub Sport Comp 50",
+        "type": "Hybrid",
+        "price": 1094.28,
+        "description": "A versatile hybrid bike that's perfect for city commuting, fitness rides, and weekend explorations on bike paths. Comes in a stylish Black finish.",
+        "image_url": "https://placehold.co/600x400/CCCCCC/000000?text=Giant",
+        "amazon_link": "https://www.amazon.com/s?k=Giant+Sub+Sport+Comp+50"
+    }
+]

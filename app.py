@@ -5,9 +5,8 @@ from flasgger import Swagger
 from controllers.routes import main_bp
 
 app = Flask(__name__)
-# In a production environment, replace '*' with your Vercel frontend domain
-# e.g., CORS(app, resources={r"/*": {"origins": "https://your-vercel-app-domain.vercel.app"}})
-CORS(app, resources={r"/*": {"origins": "*"}}) # For development flexibility, but restrict in production!
+
+CORS(app) 
 
 # Configure cache
 app.config['CACHE_TYPE'] = 'simple'

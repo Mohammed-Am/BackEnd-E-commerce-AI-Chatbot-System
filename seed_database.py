@@ -18,7 +18,7 @@ def seed_database():
 
     # Construct the absolute path to products.json
     base_dir = os.path.dirname(os.path.abspath(__file__))
-    products_file_path = os.path.join(base_dir, '..', 'products.json')
+    products_file_path = os.path.join(base_dir, 'products.json')
 
     print(f"Reading products from {products_file_path}...")
     try:

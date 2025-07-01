@@ -1,12 +1,21 @@
 import os
 import pymongo
 from dotenv import load_dotenv
+import certifi
+import ssl
 
 load_dotenv()
 
 def get_db():
     try:
-        mongo = pymongo.MongoClient(os.environ.get("MONGO_URI"))
+        ca = certifi.where()
+        mongo = pymongo.MongoClient(
+            os.environ.get("MONGO_URI"),
+            tls=True,
+            tlsCAFile=ca,
+            tlsAllowInvalidCertificates=False,
+            tlsAllowInvalidHostnames=False
+        )
         db = mongo.get_database('bike_shop')
         print("MongoDB connected successfully!")
         return db
